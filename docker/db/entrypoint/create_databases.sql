@@ -1,1 +1,2 @@
 CREATE DATABASE api_test;
+CREATE DATABASE laravel;
